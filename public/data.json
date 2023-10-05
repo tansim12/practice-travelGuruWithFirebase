@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Jaipur, Rajasthan",
     "description": "Jaipur, the capital of Rajasthan, is a city that promises an unforgettable experience. Known as the Pink City, it boasts a rich history, stunning architecture, and vibrant culture. Explore the magnificent Amer Fort, a UNESCO World Heritage Site that showcases the grandeur of Rajput architecture. Admire the intricate latticework of Hawa Mahal, the 'Palace of Winds,' which once provided a view of the royal processions. Stroll through the colorful bazaars and savor Rajasthani cuisine. With an average rating of 4.6 and 120 reviews, Jaipur is a favorite among travelers. The best time to visit is from October to March when the weather is pleasant.",
-    "image": "jaipur.jpg",
+    "image": "https://i.ibb.co/q5wFGc4/photo-1607922276202-5007ffe552ca-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
     "rating": 4.6,
     "reviews": 120,
     "price": 1500,
@@ -13,26 +13,26 @@
       {
         "name": "Amer Fort",
         "details": "Amer Fort is a historic fort known for its artistic style blending Hindu and Rajput elements.",
-        "image": "amer_fort.jpg"
+        "image": "https://i.ibb.co/yXqC5y4/photo-1598190896090-9dc5c70361d8-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       },
       {
         "name": "Hawa Mahal",
         "details": "Hawa Mahal, also known as the 'Palace of Winds,' is an iconic five-story palace with intricate latticework windows.",
-        "image": "hawa_mahal.jpg"
+        "image": "https://i.ibb.co/L8sjJnR/photo-1588084603723-41322210d44d-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       }
     ],
     "moment": [
-      "moment_img_1.jpg",
-      "moment_img_2.jpg",
-      "moment_img_3.jpg",
-      "moment_img_4.jpg",
-      "moment_img_5.jpg"
+      "https://i.ibb.co/7yWd92c/photo-1651478882959-75000abb2db9-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/MN0gH59/photo-1571587646216-3a104fc86851-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/hdgxYTM/photo-1589000865526-e0db02c3d7ad-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/cTRmM9y/photo-1638904998527-a451c1fbd1cb-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/4fz4gzt/photo-1624486635462-f562f9f287e2-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
     ],
     "hotels": [
       {
         "hotel_id": 1,
         "hotel_name": "Luxury Palace Hotel",
-        "hotel_img": "luxury_palace_hotel.jpg",
+        "hotel_img": "https://i.ibb.co/4gqGKCw/premium-photo-1663126953248-3b3bd25402e2-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
         "price": 180,
         "rating": 4.9,
         "title": "Experience Royal Luxury",
@@ -41,7 +41,7 @@
       {
         "hotel_id": 2,
         "hotel_name": "Cozy Inn",
-        "hotel_img": "cozy_inn.jpg",
+        "hotel_img": "https://i.ibb.co/XtYg5jm/photo-1631049307264-da0ec9d70304-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 120,
         "rating": 4.3,
         "title": "Affordable Comfort",
@@ -50,7 +50,7 @@
       {
         "hotel_id": 3,
         "hotel_name": "Heritage Haveli",
-        "hotel_img": "heritage_haveli.jpg",
+        "hotel_img": "https://i.ibb.co/1ff2GFT/photo-1618773928121-c32242e63f39-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 160,
         "rating": 4.7,
         "title": "Charming Heritage Stay",
@@ -59,7 +59,7 @@
       {
         "hotel_id": 4,
         "hotel_name": "Cityscape Inn",
-        "hotel_img": "cityscape_inn.jpg",
+        "hotel_img": "https://i.ibb.co/7CysLBF/photo-1578898886225-c7c894047899-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 110,
         "rating": 4.2,
         "title": "City-Centric Comfort",
@@ -71,7 +71,7 @@
     "id": 2,
     "name": "Goa",
     "description": "Goa, India's beach paradise, is known for its stunning coastline, vibrant nightlife, and Portuguese-influenced culture. Relax on the pristine beaches of Calangute and Baga, or explore the historic churches of Old Goa. Enjoy water sports, seafood, and beachfront shacks. With an average rating of 4.7 and 140 reviews, Goa is a haven for beach lovers. The best time to visit is from November to February when the weather is pleasant.",
-    "image": "goa.jpg",
+    "image": "https://i.ibb.co/847V4pV/photo-1512343879784-a960bf40e7f2-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
     "rating": 4.7,
     "reviews": 140,
     "price": 1800,
@@ -81,26 +81,26 @@
       {
         "name": "Basilica of Bom Jesus",
         "details": "The Basilica of Bom Jesus is a UNESCO World Heritage Site and houses the mortal remains of St. Francis Xavier.",
-        "image": "basilica_of_bom_jesus.jpg"
+        "image": "https://i.ibb.co/dm8zLGF/photo-1614082242765-7c98ca0f3df3-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       },
       {
         "name": "Aguada Fort",
         "details": "Aguada Fort is a well-preserved 17th-century Portuguese fort overlooking the Arabian Sea.",
-        "image": "aguada_fort.jpg"
+        "image": "https://i.ibb.co/6H5C55w/photo-1560179406-1c6c60e0dc76-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-MXxh.jpg"
       }
     ],
     "moment": [
-      "moment_img_6.jpg",
-      "moment_img_7.jpg",
-      "moment_img_8.jpg",
-      "moment_img_9.jpg",
-      "moment_img_10.jpg"
+      "https://i.ibb.co/M2zsQ6B/photo-1625505826533-5c80aca7d157-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/Ln5bYvk/photo-1580741186862-c5d0bf2aff33-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/kg3D0TN/photo-1496566084516-c5b96fcbd5c8-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/M2zsQ6B/photo-1625505826533-5c80aca7d157-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/M2zsQ6B/photo-1625505826533-5c80aca7d157-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
     ],
     "hotels": [
       {
         "hotel_id": 5,
         "hotel_name": "Beachside Retreat",
-        "hotel_img": "beachside_retreat.jpg",
+        "hotel_img": "https://i.ibb.co/LQ9NgXB/premium-photo-1676320514007-b9a41f2e7266-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
         "price": 220,
         "rating": 4.8,
         "title": "Seaside Serenity",
@@ -109,7 +109,7 @@
       {
         "hotel_id": 6,
         "hotel_name": "Sunset View Hotel",
-        "hotel_img": "sunset_view_hotel.jpg",
+        "hotel_img": "https://i.ibb.co/JFnrrPZ/photo-1445991842772-097fea258e7b-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 160,
         "rating": 4.6,
         "title": "Romantic Sunsets",
@@ -121,7 +121,7 @@
     "id": 3,
     "name": "Manali, Himachal Pradesh",
     "description": "Manali, nestled in the Himalayas, is a paradise for nature lovers and adventure enthusiasts. Explore the lush landscapes, visit Solang Valley for adventure sports, and take a stroll in the charming Old Manali. Witness the tranquility of the Hidimba Devi Temple. With an average rating of 4.5 and 110 reviews, Manali is a breathtaking destination. The best time to visit is from April to June and September to October when the weather is pleasant.",
-    "image": "manali.jpg",
+    "image": "https://i.ibb.co/KV9BjMX/photo-1605649487212-47bdab064df7-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
     "rating": 4.5,
     "reviews": 110,
     "price": 1200,
@@ -131,26 +131,25 @@
       {
         "name": "Hidimba Devi Temple",
         "details": "The Hidimba Devi Temple is an ancient cave temple dedicated to Hidimba Devi, a character from the Mahabharata.",
-        "image": "hidimba_devi_temple.jpg"
+        "image": "https://i.ibb.co/tMWsH16/photo-1597167231350-d057a45dc868-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       },
       {
         "name": "Old Manali",
         "details": "Old Manali is a quaint village known for its serene atmosphere, cafes, and scenic beauty.",
-        "image": "old_manali.jpg"
+        "image": "https://i.ibb.co/vYp9F3r/photo-1626621341517-bbf3d9990a23-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       }
     ],
     "moment": [
-      "moment_img_11.jpg",
-      "moment_img_12.jpg",
-      "moment_img_13.jpg",
-      "moment_img_14.jpg",
-      "moment_img_15.jpg"
+      "https://i.ibb.co/DtFTMtD/photo-1579689189009-874f5cac2db5-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/Ld3cSZ2/photo-1593181629936-11c609b8db9b-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/YZGtNS4/photo-1516406742981-2b7d67ec4ae8-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/BqND7Nc/photo-1579689217062-f66443381e24-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
     ],
     "hotels": [
       {
         "hotel_id": 7,
         "hotel_name": "Mountain View Resort",
-        "hotel_img": "mountain_view_resort.jpg",
+        "hotel_img": "https://i.ibb.co/2d0C0nS/photo-1631049035182-249067d7618e-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 140,
         "rating": 4.4,
         "title": "Scenic Mountain Retreat",
@@ -159,7 +158,7 @@
       {
         "hotel_id": 8,
         "hotel_name": "Riverfront Lodge",
-        "hotel_img": "riverfront_lodge.jpg",
+        "hotel_img": "https://i.ibb.co/x3jLqKW/photo-1598928636135-d146006ff4be-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 180,
         "rating": 4.7,
         "title": "Tranquil Riverfront Stay",
@@ -169,51 +168,69 @@
   },
   {
     "id": 4,
-    "name": "Udaipur, Rajasthan",
-    "description": "Udaipur, often called the 'City of Lakes,' is a romantic and picturesque destination in Rajasthan. Visit the stunning City Palace overlooking Lake Pichola, take a boat ride to Jag Mandir Island, and explore the intricate architecture of Saheliyon-ki-Bari. Udaipur offers a blend of history, culture, and natural beauty. With an average rating of 4.8 and 130 reviews, it's a perfect getaway for couples. The best time to visit is from September to March when the weather is pleasant.",
-    "image": "udaipur.jpg",
-    "rating": 4.8,
-    "reviews": 130,
-    "price": 1700,
+    "name": "Jaipur, Rajasthan",
+    "description": "Jaipur, the capital of Rajasthan, is a city that promises an unforgettable experience. Known as the Pink City, it boasts a rich history, stunning architecture, and vibrant culture. Explore the magnificent Amer Fort, a UNESCO World Heritage Site that showcases the grandeur of Rajput architecture. Admire the intricate latticework of Hawa Mahal, the 'Palace of Winds,' which once provided a view of the royal processions. Stroll through the colorful bazaars and savor Rajasthani cuisine. With an average rating of 4.6 and 120 reviews, Jaipur is a favorite among travelers. The best time to visit is from October to March when the weather is pleasant.",
+    "image": "https://i.ibb.co/fvX33xg/premium-photo-1661963285656-f91dff9f6566-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
+    "rating": 4.6,
+    "reviews": 120,
+    "price": 1500,
     "location": "Rajasthan",
-    "bestTimeToVisit": "September to March",
+    "bestTimeToVisit": "October to March",
     "historicalPlace": [
       {
-        "name": "City Palace",
-        "details": "City Palace is a magnificent royal residence with a blend of Rajasthani and Mughal architectural styles.",
-        "image": "city_palace.jpg"
+        "name": "Amer Fort",
+        "details": "Amer Fort is a historic fort known for its artistic style blending Hindu and Rajput elements.",
+        "image": "https://i.ibb.co/fvX33xg/premium-photo-1661963285656-f91dff9f6566-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg"
       },
       {
-        "name": "Jag Mandir",
-        "details": "Jag Mandir is an island palace on Lake Pichola, known for its stunning views and architecture.",
-        "image": "jag_mandir.jpg"
+        "name": "Hawa Mahal",
+        "details": "Hawa Mahal, also known as the 'Palace of Winds,' is an iconic five-story palace with intricate latticework windows.",
+        "image": "https://i.ibb.co/L8sjJnR/photo-1588084603723-41322210d44d-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       }
     ],
     "moment": [
-      "moment_img_16.jpg",
-      "moment_img_17.jpg",
-      "moment_img_18.jpg",
-      "moment_img_19.jpg",
-      "moment_img_20.jpg"
+      "https://i.ibb.co/7yWd92c/photo-1651478882959-75000abb2db9-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/MN0gH59/photo-1571587646216-3a104fc86851-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/hdgxYTM/photo-1589000865526-e0db02c3d7ad-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/cTRmM9y/photo-1638904998527-a451c1fbd1cb-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/4fz4gzt/photo-1624486635462-f562f9f287e2-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
     ],
     "hotels": [
       {
-        "hotel_id": 9,
-        "hotel_name": "Lakeview Palace Hotel",
-        "hotel_img": "lakeview_palace_hotel.jpg",
-        "price": 200,
+        "hotel_id": 1,
+        "hotel_name": "Luxury Palace Hotel",
+        "hotel_img": "https://i.ibb.co/CMqKnFM/photo-1631049552057-403cdb8f0658-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+        "price": 180,
         "rating": 4.9,
-        "title": "Romantic Lakeside Retreat",
-        "description": "Experience a romantic lakeside retreat at Lakeview Palace Hotel in Udaipur. Enjoy splendid views of Lake Pichola, elegant rooms, and a rooftop restaurant. Rated 4.9, it's perfect for couples."
+        "title": "Experience Royal Luxury",
+        "description": "Indulge in royal luxury at the Luxury Palace Hotel in Jaipur. With opulent decor and impeccable service, this 5-star hotel offers a regal experience. Enjoy spacious rooms, fine dining, and a rejuvenating spa. Rated 4.9, it's the epitome of luxury."
       },
       {
-        "hotel_id": 10,
+        "hotel_id": 2,
+        "hotel_name": "Cozy Inn",
+        "hotel_img": "https://i.ibb.co/6DKGSTx/premium-photo-1663126637580-ff22a73f9bfc-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
+        "price": 120,
+        "rating": 4.3,
+        "title": "Affordable Comfort",
+        "description": "For those seeking comfort on a budget, Cozy Inn is the perfect choice. With cozy rooms, a friendly staff, and a 4.3 rating, it offers affordable comfort in the heart of Jaipur."
+      },
+      {
+        "hotel_id": 3,
         "hotel_name": "Heritage Haveli",
-        "hotel_img": "heritage_haveli_udaipur.jpg",
-        "price": 150,
-        "rating": 4.6,
+        "hotel_img": "https://i.ibb.co/2jncg8s/photo-1612320582827-a95ab2596dbc-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+        "price": 160,
+        "rating": 4.7,
         "title": "Charming Heritage Stay",
-        "description": "Experience the charm of heritage at Heritage Haveli in Udaipur. Stay in traditional rooms, savor local cuisine, and immerse yourself in Udaipur's rich history. Rated 4.6, it's a delightful choice."
+        "description": "Experience the charm of Rajasthan at Heritage Haveli. This heritage hotel combines history with modern amenities. Enjoy authentic Rajasthani hospitality, exquisite cuisine, and comfortable rooms. Rated 4.7, it's a delightful stay."
+      },
+      {
+        "hotel_id": 4,
+        "hotel_name": "Cityscape Inn",
+        "hotel_img": "https://i.ibb.co/4gqGKCw/premium-photo-1663126953248-3b3bd25402e2-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
+        "price": 110,
+        "rating": 4.2,
+        "title": "City-Centric Comfort",
+        "description": "Cityscape Inn offers a convenient and comfortable stay in Jaipur. Located in the heart of the city, it's ideal for exploring the attractions. With a 4.2 rating, it provides value for money."
       }
     ]
   },
@@ -221,7 +238,7 @@
     "id": 5,
     "name": "Varanasi, Uttar Pradesh",
     "description": "Varanasi, one of the oldest cities in the world, is a spiritual and cultural hub. Witness the mesmerizing Ganga Aarti at the ghats of the sacred Ganges River, visit the historic Kashi Vishwanath Temple, and explore the narrow alleys of the old city. Varanasi offers a unique spiritual experience. With an average rating of 4.7 and 125 reviews, it's a must-visit for spiritual seekers. The best time to visit is from October to March for pleasant weather.",
-    "image": "varanasi.jpg",
+    "image": "https://i.ibb.co/bXfKcm5/photo-1627938823193-fd13c1c867dd-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
     "rating": 4.7,
     "reviews": 125,
     "price": 1300,
@@ -231,26 +248,26 @@
       {
         "name": "Kashi Vishwanath Temple",
         "details": "Kashi Vishwanath Temple is one of the holiest temples dedicated to Lord Shiva, attracting pilgrims from around the world.",
-        "image": "kashi_vishwanath_temple.jpg"
+        "image": "https://i.ibb.co/QMQm0GZ/photo-1585116938581-9d993839191c-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       },
       {
         "name": "Dashashwamedh Ghat",
         "details": "Dashashwamedh Ghat is known for its evening Ganga Aarti, a mesmerizing ritual on the banks of the Ganges.",
-        "image": "dashashwamedh_ghat.jpg"
+        "image": "https://i.ibb.co/w0ZJNY0/photo-1608412525748-e06621067e23-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       }
     ],
     "moment": [
-      "moment_img_21.jpg",
-      "moment_img_22.jpg",
-      "moment_img_23.jpg",
-      "moment_img_24.jpg",
-      "moment_img_25.jpg"
+      "https://i.ibb.co/W5m4TBx/photo-1608412526085-05dd034cd7fc-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/j8GPc7R/photo-1627894485677-105070ad8e2e-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/pKS5H3p/photo-1564509027875-ba1c00cf09c1-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/v1Wzbgn/photo-1600261669797-1bb7b27939be-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/H2qRBBc/photo-1634920540678-df0e179c5243-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
     ],
     "hotels": [
       {
         "hotel_id": 11,
         "hotel_name": "Ganges View Retreat",
-        "hotel_img": "ganges_view_retreat.jpg",
+        "hotel_img": "https://i.ibb.co/XtYg5jm/photo-1631049307264-da0ec9d70304-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 150,
         "rating": 4.5,
         "title": "Scenic Riverside Stay",
@@ -259,7 +276,7 @@
       {
         "hotel_id": 12,
         "hotel_name": "Heritage Residency",
-        "hotel_img": "heritage_residency.jpg",
+        "hotel_img": "https://i.ibb.co/1ff2GFT/photo-1618773928121-c32242e63f39-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 100,
         "rating": 4.2,
         "title": "Authentic Heritage Experience",
@@ -271,7 +288,7 @@
     "id": 6,
     "name": "Mumbai, Maharashtra",
     "description": "Mumbai, the financial capital of India, is a bustling metropolis with a unique charm. Visit the iconic Gateway of India, explore the historic Chhatrapati Shivaji Terminus, and take a stroll at Marine Drive. Mumbai offers a blend of culture, entertainment, and cuisine. With an average rating of 4.5 and 135 reviews, it's a city of dreams. The best time to visit is from November to February for pleasant weather.",
-    "image": "mumbai.jpg",
+    "image": "https://i.ibb.co/dmpbJZJ/photo-1573132223210-d65883b944aa-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
     "rating": 4.5,
     "reviews": 135,
     "price": 2000,
@@ -281,26 +298,26 @@
       {
         "name": "Gateway of India",
         "details": "The Gateway of India is an iconic monument that marks Mumbai's waterfront and serves as a symbol of the city.",
-        "image": "gateway_of_india.jpg"
+        "image": "https://i.ibb.co/X4ts12c/photo-1570168007204-dfb528c6958f-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       },
       {
         "name": "Chhatrapati Shivaji Terminus",
         "details": "Chhatrapati Shivaji Terminus is a UNESCO World Heritage Site and a historic railway station known for its stunning architecture.",
-        "image": "cst_mumbai.jpg"
+        "image": "https://i.ibb.co/ZYWRb17/photo-1595658658481-d53d3f999875-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
       }
     ],
     "moment": [
-      "moment_img_26.jpg",
-      "moment_img_27.jpg",
-      "moment_img_28.jpg",
-      "moment_img_29.jpg",
-      "moment_img_30.jpg"
+      "https://i.ibb.co/c8TZ9Qd/premium-photo-1673240845266-2f2c432cf194-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
+      "https://i.ibb.co/pnPGF6g/photo-1598434192043-71111c1b3f41-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/Z2s4kZk/photo-1569758267239-d08deb78bb1a-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/pnPGF6g/photo-1598434192043-71111c1b3f41-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
+      "https://i.ibb.co/Z2s4kZk/photo-1569758267239-d08deb78bb1a-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg"
     ],
     "hotels": [
       {
         "hotel_id": 13,
         "hotel_name": "Luxury Towers",
-        "hotel_img": "luxury_towers.jpg",
+        "hotel_img": "https://i.ibb.co/6DKGSTx/premium-photo-1663126637580-ff22a73f9bfc-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A.jpg",
         "price": 250,
         "rating": 4.8,
         "title": "Ultimate Luxury",
@@ -309,211 +326,11 @@
       {
         "hotel_id": 14,
         "hotel_name": "Cityscape Hotel",
-        "hotel_img": "cityscape_hotel.jpg",
+        "hotel_img": "https://i.ibb.co/2jncg8s/photo-1612320582827-a95ab2596dbc-crop-faces-edges-cs-tinysrgb-fit-crop-fm-jpg-ixid-M3wx-Mj-A3f-DB8-M.jpg",
         "price": 180,
         "rating": 4.4,
         "title": "Convenient City Stay",
         "description": "Cityscape Hotel offers a convenient city stay in Mumbai. Located in the heart of the city, it's perfect for business and leisure travelers. Rated 4.4, it provides a comfortable experience."
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Agra, Uttar Pradesh",
-    "description": "Agra, home to the iconic Taj Mahal, is a city steeped in history and architectural marvels. Visit the breathtaking Taj Mahal, explore the Agra Fort, and immerse in the beauty of Fatehpur Sikri. Agra offers a glimpse into India's rich heritage. With an average rating of 4.8 and 150 reviews, it's a must-visit destination. The best time to visit is from October to March for pleasant weather.",
-    "image": "agra.jpg",
-    "rating": 4.8,
-    "reviews": 150,
-    "price": 1700,
-    "location": "Uttar Pradesh",
-    "bestTimeToVisit": "October to March",
-    "historicalPlace": [
-      {
-        "name": "Taj Mahal",
-        "details": "The Taj Mahal is an iconic white marble mausoleum, a UNESCO World Heritage Site, and a symbol of eternal love.",
-        "image": "taj_mahal.jpg"
-      },
-      {
-        "name": "Agra Fort",
-        "details": "Agra Fort is a historic fort and UNESCO World Heritage Site with impressive architecture and history.",
-        "image": "agra_fort.jpg"
-      }
-    ],
-    "moment": [
-      "moment_img_31.jpg",
-      "moment_img_32.jpg",
-      "moment_img_33.jpg",
-      "moment_img_34.jpg",
-      "moment_img_35.jpg"
-    ],
-    "hotels": [
-      {
-        "hotel_id": 15,
-        "hotel_name": "Taj View Resort",
-        "hotel_img": "taj_view_resort.jpg",
-        "price": 220,
-        "rating": 4.7,
-        "title": "Majestic Taj Views",
-        "description": "Enjoy majestic Taj Mahal views at Taj View Resort in Agra. Stay in comfortable rooms, savor Mughlai cuisine, and witness the magic of the Taj. Rated 4.7, it's an unforgettable experience."
-      },
-      {
-        "hotel_id": 16,
-        "hotel_name": "Heritage Haveli",
-        "hotel_img": "heritage_haveli_agra.jpg",
-        "price": 150,
-        "rating": 4.5,
-        "title": "Charming Heritage Stay",
-        "description": "Experience the charm of heritage at Heritage Haveli in Agra. Stay in traditional rooms, savor local cuisine, and immerse yourself in Agra's rich history. Rated 4.5, it's a delightful choice."
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Kochi, Kerala",
-    "description": "Kochi, a coastal city in Kerala, is a melting pot of cultures and traditions. Explore the historic Fort Kochi, witness the Chinese fishing nets, and visit the Dutch Palace. Enjoy the serene backwaters and traditional Kathakali performances. With an average rating of 4.6 and 140 reviews, Kochi is a cultural delight. The best time to visit is from October to February for pleasant weather.",
-    "image": "kochi.jpg",
-    "rating": 4.6,
-    "reviews": 140,
-    "price": 1600,
-    "location": "Kerala",
-    "bestTimeToVisit": "October to February",
-    "historicalPlace": [
-      {
-        "name": "Fort Kochi",
-        "details": "Fort Kochi is a historic neighborhood known for its colonial architecture and cultural heritage.",
-        "image": "fort_kochi.jpg"
-      },
-      {
-        "name": "Chinese Fishing Nets",
-        "details": "The Chinese fishing nets in Kochi are iconic installations that reflect the city's maritime history.",
-        "image": "chinese_fishing_nets.jpg"
-      }
-    ],
-    "moment": [
-      "moment_img_36.jpg",
-      "moment_img_37.jpg",
-      "moment_img_38.jpg",
-      "moment_img_39.jpg",
-      "moment_img_40.jpg"
-    ],
-    "hotels": [
-      {
-        "hotel_id": 17,
-        "hotel_name": "Seaside Serenity Resort",
-        "hotel_img": "seaside_serenity_resort.jpg",
-        "price": 180,
-        "rating": 4.7,
-        "title": "Tranquil Beachside Retreat",
-        "description": "Experience tranquil beachside living at Seaside Serenity Resort in Kochi. Enjoy beachfront rooms, traditional cuisine, and cultural experiences. Rated 4.7, it's a coastal paradise."
-      },
-      {
-        "hotel_id": 18,
-        "hotel_name": "Heritage Haven",
-        "hotel_img": "heritage_haven.jpg",
-        "price": 130,
-        "rating": 4.4,
-        "title": "Heritage Charm",
-        "description": "Immerse in heritage charm at Heritage Haven in Kochi. Stay in historic rooms, savor traditional Kerala dishes, and explore the city's rich culture. Rated 4.4, it's a cultural delight."
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Rishikesh, Uttarakhand",
-    "description": "Rishikesh, situated in the foothills of the Himalayas, is a spiritual and adventure destination. Visit the famous Laxman Jhula and Ram Jhula suspension bridges, practice yoga and meditation, and go white-water rafting on the Ganges. Rishikesh offers a serene escape. With an average rating of 4.5 and 120 reviews, it's a haven for nature and spirituality. The best time to visit is from September to November and February to June.",
-    "image": "rishikesh.jpg",
-    "rating": 4.5,
-    "reviews": 120,
-    "price": 1400,
-    "location": "Uttarakhand",
-    "bestTimeToVisit": "September to November and February to June",
-    "historicalPlace": [
-      {
-        "name": "Laxman Jhula",
-        "details": "Laxman Jhula is a suspension bridge with mythological significance, offering scenic views of the Ganges.",
-        "image": "laxman_jhula.jpg"
-      },
-      {
-        "name": "The Beatles Ashram",
-        "details": "The Beatles Ashram is where the famous band meditated and composed songs in the 1960s.",
-        "image": "beatles_ashram.jpg"
-      }
-    ],
-    "moment": [
-      "moment_img_41.jpg",
-      "moment_img_42.jpg",
-      "moment_img_43.jpg",
-      "moment_img_44.jpg",
-      "moment_img_45.jpg"
-    ],
-    "hotels": [
-      {
-        "hotel_id": 19,
-        "hotel_name": "Riverside Retreat",
-        "hotel_img": "riverside_retreat.jpg",
-        "price": 120,
-        "rating": 4.4,
-        "title": "Nature's Bliss",
-        "description": "Experience nature's bliss at Riverside Retreat in Rishikesh. Stay in riverside cottages, practice yoga, and relax by the Ganges. Rated 4.4, it's a tranquil retreat."
-      },
-      {
-        "hotel_id": 20,
-        "hotel_name": "Yogic Haven",
-        "hotel_img": "yogic_haven.jpg",
-        "price": 100,
-        "rating": 4.2,
-        "title": "Yoga Retreat",
-        "description": "Embark on a yoga retreat at Yogic Haven in Rishikesh. Join meditation sessions, detox with Ayurvedic meals, and rejuvenate your spirit. Rated 4.2, it's a spiritual haven."
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Mysore, Karnataka",
-    "description": "Mysore, the 'City of Palaces,' is known for its royal heritage and grand architecture. Visit the stunning Mysore Palace, explore the lush Brindavan Gardens, and witness the vibrant Dasara Festival. Mysore offers a royal experience. With an average rating of 4.7 and 135 reviews, it's a cultural delight. The best time to visit is during the Dasara Festival in October.",
-    "image": "mysore.jpg",
-    "rating": 4.7,
-    "reviews": 135,
-    "price": 1400,
-    "location": "Karnataka",
-    "bestTimeToVisit": "Dasara Festival in October",
-    "historicalPlace": [
-      {
-        "name": "Mysore Palace",
-        "details": "Mysore Palace is a magnificent royal palace known for its Indo-Saracenic architecture and grandeur.",
-        "image": "mysore_palace.jpg"
-      },
-      {
-        "name": "Chamundi Hill",
-        "details": "Chamundi Hill is home to the Chamundeshwari Temple and offers panoramic views of Mysore city.",
-        "image": "chamundi_hill.jpg"
-      }
-    ],
-    "moment": [
-      "moment_img_46.jpg",
-      "moment_img_47.jpg",
-      "moment_img_48.jpg",
-      "moment_img_49.jpg",
-      "moment_img_50.jpg"
-    ],
-    "hotels": [
-      {
-        "hotel_id": 21,
-        "hotel_name": "Palatial Retreat",
-        "hotel_img": "palatial_retreat.jpg",
-        "price": 180,
-        "rating": 4.8,
-        "title": "Royal Splendor",
-        "description": "Experience royal splendor at Palatial Retreat in Mysore. Stay in opulent rooms, dine like royalty, and immerse in the grandeur of Mysore. Rated 4.8, it's a regal escape."
-      },
-      {
-        "hotel_id": 22,
-        "hotel_name": "Garden View Hotel",
-        "hotel_img": "garden_view_hotel.jpg",
-        "price": 120,
-        "rating": 4.5,
-        "title": "Scenic Garden Retreat",
-        "description": "Enjoy a scenic garden retreat at Garden View Hotel in Mysore. Relax in peaceful surroundings, savor local cuisine, and explore the city's cultural treasures. Rated 4.5, it's a tranquil choice."
       }
     ]
   }

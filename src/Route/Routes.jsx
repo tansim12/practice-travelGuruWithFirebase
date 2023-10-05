@@ -6,6 +6,7 @@ import Destination from "../Pages/Destination";
 
 import Register from "../Pages/Register";
 import Login from "../Pages/Login";
+import PlaceDetails from "../Pages/PlaceDetails.jsx/PlaceDetails";
 
 const router = createBrowserRouter([
   {
@@ -16,6 +17,12 @@ const router = createBrowserRouter([
         path: "/",
         element: <Home></Home>,
       },
+      
+      {
+        path: "/placeDetails",
+        element: <PlaceDetails></PlaceDetails>,
+      },
+
       {
         path: "/news",
         element: <News></News>,

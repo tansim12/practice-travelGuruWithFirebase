@@ -4,6 +4,7 @@ import useAuthContext from "../useAuthContext";
 import toast from "react-hot-toast";
 
 const Register = () => {
+  const { user } = useAuthContext();
   const navigate = useNavigate();
   const { createUser, profileUpdate } = useAuthContext();
   const patten = /[A-Z]/;
@@ -27,19 +28,18 @@ const Register = () => {
     createUser(email, password)
       .then(() => {
         toast.success("Register success");
-        navigate("/login");
+        profileUpdate(name, undefined)
+          .then((res) => {
+            navigate("/login");
+          })
+          .catch((err) => toast.error(err.message));
       })
       .catch((err) => toast.error(err.message));
 
     // profileUpdate
-    profileUpdate(name)
-      .then(() => {
-        // toast.success("Update profile success");
-      })
-      .catch((err) => toast.error(err.message));
   };
   return (
-    <div>
+    <div >
       <div>
         <section className="bg-gray-50 my-5">
           <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto  lg:py-0">

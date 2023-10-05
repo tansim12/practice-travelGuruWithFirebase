@@ -10,7 +10,7 @@ const LoginType = () => {
   const location = useLocation();
   const navigate = useNavigate();
 
-  const { googleLogin, githubLogin } = useAuthContext();
+  const { googleLogin, githubLogin, facebookLogin } = useAuthContext();
   // handleLogin
   const handleLogin = (media) => {
     media()
@@ -27,7 +27,9 @@ const LoginType = () => {
       <p onClick={() => handleLogin(googleLogin)}>
         <GoogleLogin></GoogleLogin>
       </p>
-      <FacebookLogin></FacebookLogin>
+      <p onClick={() => handleLogin(facebookLogin)}>
+        <FacebookLogin></FacebookLogin>
+      </p>
       <p onClick={() => handleLogin(githubLogin)}>
         <GithubLogin></GithubLogin>
       </p>
