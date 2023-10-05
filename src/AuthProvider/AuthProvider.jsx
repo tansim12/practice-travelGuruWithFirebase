@@ -110,7 +110,7 @@ const AuthProvider = ({ children }) => {
   const getSingleData = (singleData) => {
     setSingleDataToSlider(singleData);
   };
-  console.log(singleDataToSlider);
+
 
   const info = {
     googleLogin,
@@ -126,7 +126,7 @@ const AuthProvider = ({ children }) => {
     facebookLogin,
     data,
     getSingleData,
-    singleDataToSlider,
+    singleDataToSlider,loading,
   };
 
   return <AuthContext.Provider value={info}>{children}</AuthContext.Provider>;

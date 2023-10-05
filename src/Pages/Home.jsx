@@ -46,7 +46,7 @@ const Home = () => {
         <div className="  sm:flex justify-around items-center max-w-screen-xl mx-auto px-4 md:px-8 lg:px-12 py-5 gap-10">
           {/* name , details , booking  */}
           <div>
-            <p className=" text-5xl text-black font-extrabold ">{name}</p>
+            <p className=" text-3xl sm:text-5xl text-black font-extrabold ">{name}</p>
             <div className=" w-full sm:w-[70%] my-3 ">
               {description?.length < 100 ? (
                 <span className="font-semibold ">{description}</span>
